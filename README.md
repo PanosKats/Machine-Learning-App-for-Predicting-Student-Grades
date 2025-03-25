@@ -8,8 +8,9 @@ This app builds a machine learning model designed to predict a student's final g
 
 
 
-## Section Heading
 
-This is filler text, please replace this with text for this section.
+![alt text](https://github.com/PanosKats/Machine-Learning-App-for-Predicting-Student-Grades/blob/master/ML_app.png "ML App")
+
+
 
 
