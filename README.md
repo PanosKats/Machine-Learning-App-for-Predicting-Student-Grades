@@ -4,7 +4,7 @@ This app builds a machine learning model designed to predict a student's final g
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dp-machinelearning.streamlit.app/](https://gradesprediction.streamlit.app/))
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gradesprediction.streamlit.app/))
 
 
 
